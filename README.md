@@ -5,7 +5,7 @@
 
 2、根据实体类创建数据库，就一个表，很简单
 
-3、maven依赖导入修改DataSourceConfig.java数据库配置
+3、maven依赖导入，并修改DataSourceConfig.java数据库配置
 
 4、idea需要lombok插件，没有请安装
 
